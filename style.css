@@ -28,11 +28,11 @@ main {
   display: flex;
   flex-direction: column;
   padding: 74px 90px 0px 70px;
-  text-align: center;
 }
 
 .col-one-stats {
   display: flex;
+  text-align: center;
 }
 
 .col-two {
